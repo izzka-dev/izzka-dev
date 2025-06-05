@@ -10,7 +10,8 @@
 - Interest: AI & Machine Learning, Web and Software Development
 
 ## 📁 Project
-- 🧠 AI Chatbot: COMING SOON
+- 🧠 AI Chatbot: SEE DOWN BELOW!
+- 🚗 HTML simple car website: SEE DOWN BELOW!
 - 📊 SQL Student Records System: COMING SOON
 - 🪩 Personal Website: COMING SOON
 
