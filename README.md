@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Izzah
 
-<!--
-**izzka-dev/izzka-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-year IT student passionate about AI, software and web development.
+💻 Skilled in Python, HTML, CSS and SQL.
+📌 Learning AI, data analysis and full-stack development.
+🌱 Currently building my GitHub portfolio.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: Python, SQL, HTML, CSS, C++, Visual Basic
+- Interest: AI & Machine Learning, Web and Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Project
+- 🧠 AI Chatbot: COMING SOON
+- 📊 SQL Student Records System: COMING SOON
+- 🪩 Personal Website: COMING SOON
+
+## 📫 Contact
+- Email: nurizzahkamrulazman@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nur-izzah-kamrul-azman-5aa5b324a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
